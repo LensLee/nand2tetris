@@ -1,0 +1,4 @@
+Usage:
+	MyJackCompiler	: will compile current directory
+	MyJackCompiler Directory_name	: compile specified directory
+	MyJackCompiler File_name	: compile specified file(.jack)
